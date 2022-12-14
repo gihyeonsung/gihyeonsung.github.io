@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  font-size: 14pt;
+  margin: 2em;
+  max-width: 24em;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+    color: #fff;
+  }
+}
